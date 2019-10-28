@@ -54,7 +54,7 @@ export default function Candidates() {
                     <ListGroupItem>{candidate.job_title}</ListGroupItem>
                   </ListGroup>
                   <Card.Body>
-                    <Nav.Link href={`/candidates/${candidate.id}`}>Edit</Nav.Link>
+                    <Nav.Link href={`/candidatepage/${candidate.id}`}>Edit</Nav.Link>
                     <Nav.Link
                       onClick={() => onDeleteCandidate(candidate.id)}
                       href="#"

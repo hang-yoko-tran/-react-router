@@ -2,15 +2,15 @@
   "candidates": [
     {
       "id": 9,
-      "first_name": "Kean",
-      "last_name": "Bark",
-      "email": "kbark8@ehow.com",
-      "gender": "Male",
-      "company": "Vitz",
-      "job_title": "Speech Pathologist",
-      "city": "Miyoshi",
-      "country": "Japan",
-      "photo_url": "https://robohash.org/evenietporroqui.png?size=500x500&set=set1"
+      "first_name": "Hang",
+      "last_name": "Tran",
+      "email": "hang@gmail.com",
+      "gender": "Female",
+      "company": "HELL",
+      "job_title": "Product Managment",
+      "city": "Ho Chi Minh",
+      "country": "Vietnam",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskcFpONOgo9S9x-AjsGHelOtBJ3m_Lj19b5XKEpdWiQvuRTvB&s"
     },
     {
       "id": 10,
@@ -23,18 +23,6 @@
       "city": "Drien Rampak",
       "country": "Indonesia",
       "photo_url": "https://robohash.org/magniarchitectorecusandae.png?size=500x500&set=set1"
-    },
-    {
-      "id": 11,
-      "first_name": "Britteny",
-      "last_name": "Eslinger",
-      "email": "beslingera@edublogs.org",
-      "gender": "Female",
-      "company": "Plambee",
-      "job_title": "Recruiter",
-      "city": "Jingnao",
-      "country": "China",
-      "photo_url": "https://robohash.org/laboriosamreiciendisaccusantium.png?size=500x500&set=set1"
     },
     {
       "id": 12,
