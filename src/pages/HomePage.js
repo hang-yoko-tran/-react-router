@@ -5,7 +5,7 @@ import { useHistory } from 'react-router-dom'
 export default function HomePage() {
     const history = useHistory()
     const email = useSelector (state => state.email)
-    if (!email) {
+    if (email==='') {
         history.push("/")
     }
     return (
