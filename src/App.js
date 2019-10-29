@@ -8,6 +8,7 @@ import {
   Route, 
   Link } 
   from 'react-router-dom';
+import LoginPage from './pages/LoginPage';
 import HomePage from './pages/HomePage';
 import Candidates from './pages/CandidatesPage';
 import Company from './pages/CompanyPage';
@@ -19,10 +20,11 @@ function App() {
     <div className="App">
       <NavBar />
       <Switch>
+      <Route path="/" exact component={LoginPage} />
       <Route path="/homepage" exact component={HomePage} />
       <Route path="/candidates" exact component={Candidates} />
       <Route path="/company" exact component={Company} />
-      <Route path="/candidatepage/:id" exact component={CandidatePage} />
+      <Route path="/candidatepage/:" exact component={CandidatePage} />
       </Switch>
     </div>
   );
